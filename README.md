@@ -2,7 +2,7 @@
 
 Janji 
 
-Saya Sheva Desprianty Hermawan dengan NIM 2511645 mengerjakan kuis 1 dalam mata kuliah desain pemrograman berorientasi objek untuk keberkahannya maka saya tidak melakukan kecurangan seperti yang telah dispesifikasikan. Amin 
+Saya Sheva Desprianty Hermawan dengan NIM 2511645 mengerjakan TP 3 dalam mata kuliah desain pemrograman berorientasi objek untuk keberkahannya maka saya tidak melakukan kecurangan seperti yang telah dispesifikasikan. Amin 
 
 
 Repositori ini berisi implementasi sistem pengelolaan katalog toko elektronik menggunakan tiga bahasa pemrograman: **C++**, **Python**, dan **Java**. Seluruh kode dibuat secara modular (terpisah per kelas) dan selaras dengan desain UML Class Diagram.
